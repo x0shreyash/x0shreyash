@@ -1,4 +1,4 @@
-‎ ‎ ‎   ‎ ‎‎ ‎   ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎ ‎  ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎‎  ‎   ‎ ‎ ‎ ‎ ‎ ‎ ![Minecraft](https://github.com/x0shreyash/x0shreyash/assets/155342625/d11eb321-30b3-42f9-ac1d-0b1f57d39116)
+‎ ‎ ‎   ‎ ‎‎ ‎   ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎ ‎‎‎ ‎‎ ‎‎ ‎‎ ‎‎   ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎  ‎   ‎ ‎ ‎ ‎ ‎ ‎ ![Minecraft](https://github.com/x0shreyash/x0shreyash/assets/155342625/d11eb321-30b3-42f9-ac1d-0b1f57d39116)
 
 <h1 align="center"><span style="font-family: 'Lucida Bright', 'Courier', monospace; color: #6f00ff;">Welcome To My Realm</span></h1>
 <h3 align="center"><span style="font-family: 'Lucida Bright', 'Courier', monospace; color: #ff79c6;">Chess | <b>Mixed Martial Art</b> | Design | Code</span></h3>
