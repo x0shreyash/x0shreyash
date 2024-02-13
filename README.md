@@ -34,7 +34,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="[https://download.blender.org/branding/community/blender_community_badge_white.svg](https://tenor.com/bPmWr.gif)" alt="blender" width="40" height="40"/> </a>
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/084951ed-0890-461a-8472-52c84c8f0d69)![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/42136972-7585-48e5-85f6-6c9ab7c0b3b9)![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/9719d4a6-27bf-41c8-a590-e881cdf85c6d)![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/084951ed-0890-461a-8472-52c84c8f0d69)![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/084951ed-0890-461a-8472-52c84c8f0d69)![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/084951ed-0890-461a-8472-52c84c8f0d69)![minecraft-crystal](https://github.com/x0shreyash/x0shreyash/assets/155342625/084951ed-0890-461a-8472-52c84c8f0d69)
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=x0shreyash&show_icons=true&locale=en&layout=compact&theme=dracula" alt="x0shreyash" /></p>
 
