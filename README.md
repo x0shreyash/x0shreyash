@@ -39,3 +39,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=x0shreyash&show_icons=true&theme=dracula&title_color=00ff00&text_color=ff0000&hide_border=true&locale=en" alt="x0shreyash" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=x0shreyash&theme=dracula" alt="x0shreyash" /></p>
+
+<a href="https://app.daily.dev/x0shreyash"><img src="https://api.daily.dev/devcards/v2/sp0Wne5sX6nzROAHfj7TB.png?type=default&r=8j9" width="356" alt="Shreyash's Dev Card"/></a>
