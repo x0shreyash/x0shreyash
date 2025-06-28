@@ -16,7 +16,7 @@
 
 
 ## Stalkers
-![Visitor Count](https://count.getloli.com/get/@x0shreyash?theme=rule34)
+![Visitor Count](https://count.getloli.com/@x0shreyash?name=x0shreyash&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
 
 
 ## Touch Me
