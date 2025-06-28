@@ -11,15 +11,15 @@
 - If you enjoy my work and would like to support me, please consider sponsoring me.
 
 
-## Code Stats
+## Statistics
 ![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinkitadhana&show_icons=true&theme=dark)   ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=x0shreyash&theme=dark)
 
 
-## Visitor count
+## Stalkers
 ![Visitor Count](https://count.getloli.com/get/@x0shreyash?theme=rule34)
 
 
-## Get in touch
+## Touch Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](x0shreyash.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/x0shreyash)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/x0shreyash)
