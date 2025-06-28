@@ -12,7 +12,7 @@
 
 
 ## Statistics
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinkitadhana&show_icons=true&theme=dark)   ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=x0shreyash&theme=dark)
+![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=x0shreyash&show_icons=true&theme=dark)   ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=x0shreyash&theme=dark)
 
 
 ## Stalkers
