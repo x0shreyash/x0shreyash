@@ -5,9 +5,12 @@
 
 ## About me
 
-- I'm an undergraduate Computer Science student and a full-stack engineer who loves building and shipping things.
-- Explore my repositories or check out my pinned ones to see my latest and most popular work.
-- Exploring Open Source and making meaningful contributions.
+- I'm a BCA undergrad who enjoys building web apps and experimenting with frontend.
+
+- Explore my repositories or check out my pinned ones to see what I’ve been working on.
+
+- Learning backend and getting into open source to make meaningful contributions.
+
 - If you enjoy my work and would like to support me, please consider sponsoring me.
 
 
