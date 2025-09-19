@@ -15,7 +15,7 @@
 
 
 ## Statistics
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=x0shreyash&show_icons=true&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x0shreyash&bg_color=000000&color=FF073A&line=00F5FF&point=FFD700&area=true&hide_border=true&hide_title=true&disable_animations=false&theme=tokyo-night&days_of_week=false&hide_rank=true)
 
 
 ## Stalkers
